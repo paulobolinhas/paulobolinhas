@@ -1,11 +1,11 @@
 <h3 align="center">Hi, i'm a computer science student at FCUL and i'm studying to be a computer engineer</h3>
 
-I really like to program and I'm always looking to learn new concepts, both related to computing and others outside my area.
+- I really like to program and I'm always looking to learn new concepts, both related to computing and others outside my area.
 
-I am currently gaining knowledge and experience in this area.
+- I am currently gaining knowledge and experience in this area.
 
 <h3 align="left">Contact me:</h3> 
-paulobolinhas0@gmail.com
+<a href="paulobolinhas0@gmail.com" </a>
 
 <h3 align="left">Link with me:</h3>
 <p align="left">
