@@ -5,7 +5,7 @@
 - I am currently gaining knowledge and experience in this area.
 
 <h3 align="left">Contact me:</h3> 
-<a href="paulobolinhas0@gmail.com" </a>
+<a href="paulobolinhas0@gmail.com" paulobolinhas0@gmail.com </a>
 
 <h3 align="left">Link with me:</h3>
 <p align="left">
