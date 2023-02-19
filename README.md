@@ -10,7 +10,7 @@ I am currently gaining knowledge and experience in this area.
 
 <h3 align="left">Link with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/- 📧 Contact me **paulobolinhas0@gmail.com****" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.linkedin.com/in/paulo-bolinhas-b47307235/)" alt="- 📧 Contact me **paulobolinhas0@gmail.com**" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/- 📧 Contact me **paulobolinhas0@gmail.com**" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="- 📧 Contact me **paulobolinhas0@gmail.com**" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
