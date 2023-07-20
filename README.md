@@ -11,6 +11,9 @@
 <h3 align="left">Contact me:</h3> 
 <a href="paulobolinhas0@gmail.com">paulobolinhas0@gmail.com</a>
 
+<h3 align="left">Gitlab</h3> 
+<a href="https://git.alunos.di.fc.ul.pt/fc56300">https://git.alunos.di.fc.ul.pt/fc56300</a>
+
 <h3 align="left">Link with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/paulo-bolinhas-b47307235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="**paulobolinhas0@gmail.com**" height="30" width="40" /></a>
