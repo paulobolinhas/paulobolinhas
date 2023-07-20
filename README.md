@@ -11,8 +11,8 @@
 <h3 align="left">Contact me:</h3> 
 <a href="paulobolinhas0@gmail.com">paulobolinhas0@gmail.com</a>
 
-<h3 align="left">Gitlab</h3> 
-<a href="https://git.alunos.di.fc.ul.pt/fc56300">https://git.alunos.di.fc.ul.pt/fc56300</a>
+<h3 align="left">Gitlab:</h3> 
+Check my java democracy project: <a href="https://git.alunos.di.fc.ul.pt/fc56300">https://git.alunos.di.fc.ul.pt/fc56300</a>
 
 <h3 align="left">Link with me:</h3>
 <p align="left">
