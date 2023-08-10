@@ -2,7 +2,7 @@
 **paulobolinhas/paulobolinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h3 align="center">Hi, i'm a computer science student at FCUL and i'm studying to be a computer engineer</h3>
+<h3 align="center">Hi, i'm a computer science student at FCUL and i'm studying to be a computer engineer. I now have a bachelor's degree in computer science and i am apllying to a master's degree in IST.</h3>
 
 - I really like to program and I'm always looking to learn new concepts, both related to computing and others outside my area.
 
