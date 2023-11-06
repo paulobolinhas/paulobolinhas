@@ -2,7 +2,7 @@
 **paulobolinhas/paulobolinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h3 align="center">Hi, i'm a Cyber-Security and Software Engineer. I now have graduated in computer science engineering at FCUL and i am currently doing a master's degree in Cyber-Security and Software Engineering at IST.</h3>
+<h3 align="center">Hi, i'm a Cyber-Security and Software Engineer. I now have graduated in Computer Science Engineering at FCUL and i am currently doing a master's degree in Cyber-Security and Software Engineering at IST.</h3>
 
 - I really like to program and I'm always looking to learn new concepts, both related to computing and others outside my area.
 
