@@ -2,11 +2,10 @@
 **paulobolinhas/paulobolinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h3 align="center">Hi, i'm a Cyber-Security and Software Engineer. I now have graduated in Computer Science Engineering at FCUL and i am currently doing a master's degree in Cyber-Security and Software Engineering at IST.</h3>
+<h3 align="center">Paulo Alexandre Pereira Bolinhas is a Computer Science Engineer currently pursuing a master's degree in Cyber-Security and Software Engineering at Instituto Superior Técnico. </h3>
 
-- I really like to program and I'm always looking to learn new concepts, both related to computing and others outside my area.
-
-- I am currently gaining knowledge and experience in this area.
+- At present, he is involved in research related to Cybersecurity and Artificial Intelligence.
+- He is also actively expanding his knowledge and gaining valuable experience in these fields.
 
 <h3 align="left">Contact me:</h3> 
 <a href="paulobolinhas0@gmail.com">paulobolinhas0@gmail.com</a>
