@@ -7,6 +7,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="" width="600" height="300"/>
+</div>
+
 <h3 align="center">Paulo Alexandre Pereira Bolinhas is a Computer Science Engineer currently pursuing a master's degree in Cyber-Security and Software Engineering at Instituto Superior Técnico. </h3>
 
 - At present, he is involved in research related to Cybersecurity and Artificial Intelligence.
