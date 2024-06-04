@@ -11,7 +11,7 @@
   <img src="" width="600" height="300"/>
 </div>
 
-<h3 align="center">Paulo Alexandre Pereira Bolinhas is a Computer Science Engineer currently pursuing a master's degree in Cyber-Security and Software Engineering at Instituto Superior Técnico. </h3>
+<h3>Paulo Alexandre Pereira Bolinhas is a Computer Science Engineer currently pursuing a master's degree in Cyber-Security and Software Engineering at Instituto Superior Técnico. </h3>
 
 - At present, he is involved in research related to Cybersecurity and Artificial Intelligence.
 - He is also actively expanding his knowledge and gaining valuable experience in these fields.
