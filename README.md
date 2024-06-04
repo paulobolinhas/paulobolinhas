@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-  <img src="" width="600" height="300"/>
+  <img src="banner.png" width="600" height="300"/>
 </div>
 
 <h3 align="center">Paulo is a Computer Science Engineer currently pursuing a master's degree in Cyber-Security and Software Engineering at Instituto Superior Técnico. </h3>
