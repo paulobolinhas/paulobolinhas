@@ -27,8 +27,8 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> </a> 
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobolinhas&theme=tokyonight&layout=compact)](https://github.com/paulobolinhas/github-readme-stats)
+
 ### Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulobolinhas&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobolinhas&theme=tokyonight&layout=compact)](https://github.com/paulobolinhas/github-readme-stats)
 
