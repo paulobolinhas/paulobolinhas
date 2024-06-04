@@ -2,6 +2,11 @@
 **paulobolinhas/paulobolinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<h1>
+  Hi, I’m @paulobolinhas
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <h3 align="center">Paulo Alexandre Pereira Bolinhas is a Computer Science Engineer currently pursuing a master's degree in Cyber-Security and Software Engineering at Instituto Superior Técnico. </h3>
 
 - At present, he is involved in research related to Cybersecurity and Artificial Intelligence.
