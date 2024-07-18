@@ -9,7 +9,7 @@
 
 <h3>Paulo is a Computer Science Engineer currently pursuing a master's degree in Cybersecurity and Software Engineering at Instituto Superior Técnico. </h3>
 
-- At present, he is involved in research related to Cybersecurity and Artificial Intelligence.
+- At present, he is doing an internship as a Backend Engineer at MB.io and also involved in research related to Cybersecurity and Artificial Intelligence.
 - He is also actively expanding his knowledge and gaining valuable experience in these fields.
 
 <h3 align="left">Contact me:</h3> 
