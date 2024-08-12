@@ -12,19 +12,19 @@
 - At present, he is doing an internship as a Backend Engineer at MB.io and also involved in research related to Cybersecurity and Artificial Intelligence.
 - He is also actively expanding his knowledge and gaining valuable experience in these fields.
 
-<h3>My GitHub contains both university and external projects!</h3>
+<h4>My GitHub contains both university and external projects!</h4>
 
 ---
 
-<h4 align="left">Contact me:</h4> 
+<h3 align="left">Contact me:</h3> 
 <a href="paulobolinhas0@gmail.com">paulobolinhas0@gmail.com</a>
 
-<h4 align="left">Link with me:</h4>
+<h3 align="left">Link with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/paulo-bolinhas-b47307235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="**paulobolinhas0@gmail.com**" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">Languages:</h4>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> </a>
