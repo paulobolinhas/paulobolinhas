@@ -12,7 +12,7 @@
 - At present, he is doing an internship as a Backend Engineer at MB.io and also involved in research related to Cybersecurity and Artificial Intelligence.
 - He is also actively expanding his knowledge and gaining valuable experience in these fields.
 
-<h4>My GitHub contains both university and external projects!</h4>
+<h4>Contains both university and external projects!</h4>
 
 ---
 
