@@ -14,6 +14,8 @@
 
 <h3>My GitHub contains both university and external projects!</h3>
 
+###
+
 <h4 align="left">Contact me:</h4> 
 <a href="paulobolinhas0@gmail.com">paulobolinhas0@gmail.com</a>
 
