@@ -12,7 +12,7 @@
 - At present, he is doing an internship as a Backend Engineer at MB.io and also involved in research related to Cybersecurity and Artificial Intelligence.
 - He is also actively expanding his knowledge and gaining valuable experience in these fields.
 
-  ** My GitHub contains both university and external projects **
+- My GitHub contains both university and external projects!
 
 <h3 align="left">Contact me:</h3> 
 <a href="paulobolinhas0@gmail.com">paulobolinhas0@gmail.com</a>
