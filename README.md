@@ -7,12 +7,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3>Paulo is a Computer Science Engineer currently pursuing a master's degree in Cybersecurity and Software Engineering at Instituto Superior Técnico. </h3>
+<h2>Paulo is a Computer Science Engineer currently pursuing a master's degree in Cybersecurity and Software Engineering at Instituto Superior Técnico. </h2>
 
 - At present, he is doing an internship as a Backend Engineer at MB.io and also involved in research related to Cybersecurity and Artificial Intelligence.
 - He is also actively expanding his knowledge and gaining valuable experience in these fields.
 
-- My GitHub contains both university and external projects!
+<h3>My GitHub contains both university and external projects!</h3>
 
 <h3 align="left">Contact me:</h3> 
 <a href="paulobolinhas0@gmail.com">paulobolinhas0@gmail.com</a>
