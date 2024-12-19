@@ -31,7 +31,3 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> </a> 
 </p>
 
-### Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paulobolinhas&theme=dark&background=000000)](https://git.io/streak-stats)
-
