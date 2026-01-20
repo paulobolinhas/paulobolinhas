@@ -9,8 +9,8 @@
 
 <h2>Paulo is a Computer Science Engineer currently working as a Backend Engineer at <a href="https://www.mercedes-benz.io/">Mercedes-Benz.io</a>. </h2>
 
-- Master's degree in Cybersecurity and Software Engineering at Instituto Superior Técnico
-- Actively expanding my knowledge and gaining valuable experience in different fields.
+- Master's degree in Cybersecurity and Software Engineering at Instituto Superior Técnico.
+- Actively expanding the knowledge and gaining valuable experience in different fields.
 
 <h4>This account contains both university and external or individual projects!</h4>
 
