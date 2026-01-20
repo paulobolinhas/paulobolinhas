@@ -7,10 +7,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h2>Paulo is a Computer Science Engineer currently pursuing a master's degree in Cybersecurity and Software Engineering at Instituto Superior Técnico. </h2>
+<h2>Paulo is a Computer Science Engineer currently working as a Backend Engineer at Mercedes-Benz.io. </h2>
 
-- At present, he is doing an internship as a Backend Engineer at MB.io and also involved in research related to Cybersecurity and Artificial Intelligence.
-- He is also actively expanding his knowledge and gaining valuable experience in these fields.
+- Master's degree in Cybersecurity and Software Engineering at Instituto Superior Técnico
+- Actively expanding my knowledge and gaining valuable experience in different fields.
 
 <h4>This account contains both university and external or individual projects!</h4>
 
