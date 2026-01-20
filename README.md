@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h2>Paulo is a Computer Science Engineer currently working as a Backend Engineer at Mercedes-Benz.io. </h2>
+<h2>Paulo is a Computer Science Engineer currently working as a Backend Engineer at <a href="https://www.mercedes-benz.io/">Mercedes-Benz.io</a>. </h2>
 
 - Master's degree in Cybersecurity and Software Engineering at Instituto Superior Técnico
 - Actively expanding my knowledge and gaining valuable experience in different fields.
