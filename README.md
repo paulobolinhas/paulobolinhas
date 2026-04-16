@@ -25,7 +25,15 @@
 </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/></a><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="35" height="35"/></a><a href="https://spring.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/></a><a href="https://www.opengroup.org/archimate-forum/archimate-overview" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/opengroup/009639" alt="archimate" width="35" height="35"/></a><a href="https://www.opengroup.org/togaf" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/opengroup/009639" alt="togaf" width="35" height="35"/></a>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="35" height="35"/>
+  </a>
+  <a href="https://spring.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/>
+  </a>
 </p>
 
