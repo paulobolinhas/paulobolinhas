@@ -32,8 +32,5 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="35" height="35"/>
   </a>
-  <a href="https://spring.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/>
-  </a>
 </p>
 
