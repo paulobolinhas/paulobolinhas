@@ -33,8 +33,8 @@
 <a href="https://spring.io" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="35" height="35"/> 
 </a> 
-<a href="https://www.opengroup.org/archimate-forum/archimate-overview" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.simpleicons.org/opengroup/009639" alt="archimate" width="35" height="35"/> 
+<a href="https://www.opengroup.org/togaf" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.simpleicons.org/opengroup/009639" alt="togaf" width="35" height="35"/> 
 </a>
 </p>
 
